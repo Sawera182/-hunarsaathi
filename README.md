@@ -113,11 +113,13 @@ matching exactly this shape:
 > Replace these placeholders with real screenshots (drag image files into this
 > section on GitHub, or add them to a `/screenshots` folder and link them).
 
-1. Homepage with AI problem matcher — `screenshots/1-homepage.png`
-2. AI matcher result (category, urgency, brief) — `screenshots/2-ai-result.png`
-3. Browse professionals page with filters — `screenshots/3-browse.png`
-4. Professional registration form — `screenshots/4-register.png`
-5. Booking confirmation screen — `screenshots/5-booking-confirmed.png`
+<img width="1252" height="593" alt="homepage" src="https://github.com/user-attachments/assets/6c34508e-6408-46ca-b903-4730e9784192" />
+<img width="1097" height="584" alt="2 screen" src="https://github.com/user-attachments/assets/13843b2a-bc4e-461d-a9cf-fe86c5ff9640" />
+<img width="1093" height="623" alt="image" src="https://github.com/user-attachments/assets/d427be7c-b406-4e39-8cfe-fd1184b9d541" />
+<img width="1209" height="628" alt="3" src="https://github.com/user-attachments/assets/f3fc4a55-f61a-4266-81a9-36fdaa48e043" />
+
+<img width="1147" height="451" alt="Screenshot 2026-07-26 192323" src="https://github.com/user-attachments/assets/bc06509e-648e-4e62-bbd5-e3759448d0a8" />
+
 
 ## g. How to run this project
 
