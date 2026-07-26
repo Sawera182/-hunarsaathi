@@ -30,7 +30,8 @@ professionals who want a simple way to be found and booked.
 
 ## b. Live URL
 
-🔗 **[PASTE YOUR DEPLOYED VERCEL URL HERE]**
+ 🔗 **[hunarsaathi-xi.vercel.app](https://hunarsaathi-xi.vercel.app)
+
 
 ## c. Features list
 
